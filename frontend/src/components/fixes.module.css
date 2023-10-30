@@ -1,0 +1,10 @@
+.bg{
+    background-image: url("../assets/hero.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    width: 100%;
+    position: fixed;
+    display: block;
+}
